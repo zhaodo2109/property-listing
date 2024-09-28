@@ -1,0 +1,9 @@
+3601 Pacific ave, Stockton, CA 95211, 3 Bed, 1 Bath, Condo, 200sqft, $30000
+1234 Queen ave, Los Angeles, CA 12312, 2 Bed, 2 Bath, Condo, 1000sqft, $50000
+100 Broadway, Bangor, WA 66213, 2 Bed, 3 Bath, Townhouse, 5400sqft, $124620
+2612 Amlinda, Weber, CA 23411, 4 Bed, 2 Bath, Condo, 5600sqft, $18620
+1213 El Poche st, South El Monte, CA 93122, 5 Bed, 3 Bath, Single family house, 7000sqft, $10000000
+31231 Pacific, Stockton, CA 12341, 12 Bed, 3 Bath, Single family house,  123123 sqft, $131231
+293 Royal Ave, Hilary, NV 32100, 3 Bed, 2 Bath, Single family house,  321 sqft, $1200
+100 Hane, San Jose, CA 2011, 2 Bed, 3 Bath, Condo,  100 sqft, $3200
+500 Winhy, Redding, CA 23319, 2 Bed, 2 Bath, Single family house,  300 sqft, $10000
